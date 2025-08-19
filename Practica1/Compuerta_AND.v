@@ -10,4 +10,5 @@ assign C=A&B;
 
 endmodule
 
-//Repositorio GitHub: https://github.com/GustavoEstrada4611/Arquitectura_de_Computadoras
+
+//Repositorio GitHub: https://github.com/GustavoEstrada4611/Arquitectura_de_Computadoras/tree/main/Practica1
