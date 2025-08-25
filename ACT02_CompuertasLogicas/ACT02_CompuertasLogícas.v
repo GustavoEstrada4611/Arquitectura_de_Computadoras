@@ -24,4 +24,6 @@ assign XNOR = ~(A ^ B);
 
 endmodule
 
+//Repositorio en GitHub: https://github.com/GustavoEstrada4611/Arquitectura_de_Computadoras/tree/main/ACT02_CompuertasLogicas
+
 
