@@ -18,9 +18,10 @@ assign AND  = A & B;
 assign NAND = ~(A & B);
 assign OR   = A | B;
 assign NOR  = ~(A | B);
-assign NOT = ~(A | B);
+assign NOT = ~A;
 assign XOR  = A ^ B;
 assign XNOR = ~(A ^ B);
 
 endmodule
+
 
