@@ -1,5 +1,5 @@
-/* ACT02 Compuertas Logícas | Arquitectura de Computadoras
-Estrada Ruvera Gustavo de Jesús 220746114 | 22/08/2025 */
+/* ACT02 Compuertas Logicas | Arquitectura de Computadoras
+Estrada Rivera Gustavo de Jesus 220746114 | 22/08/2025 */
 
 `timescale 1ns/1ns
 module compuertas_logicas (
@@ -25,5 +25,6 @@ assign XNOR = ~(A ^ B);
 endmodule
 
 //Repositorio en GitHub: https://github.com/GustavoEstrada4611/Arquitectura_de_Computadoras/tree/main/ACT02_CompuertasLogicas
+
 
 
